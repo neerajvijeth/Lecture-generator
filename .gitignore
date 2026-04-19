@@ -1,0 +1,19 @@
+# Environment Variables
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac OS
+.DS_Store
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Application Outputs
+outputs/
